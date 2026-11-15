@@ -1,0 +1,16 @@
+# DewaFishing
+
+> Panduan memancing Indonesia: teknik, umpan, rig, spot, gear, dan etika memancing.
+
+## Tentang situs
+DewaFishing menyajikan panduan praktis untuk pemancing air tawar dan laut Indonesia. Artikel mencakup spesies, teknik, racikan umpan, spot, gear, cuaca, dan catch-and-release.
+
+## Bagian utama
+- [Panduan](https://dewafishing.web.id/panduan/): teknik dan perilaku ikan
+- [Umpan dan Rig](https://dewafishing.web.id/umpan/): racikan umpan dan simpul
+- [Spot](https://dewafishing.web.id/spot/): laporan spot dan etika akses
+- [Gear](https://dewafishing.web.id/gear/): panduan memilih alat pancing
+- [Tentang](https://dewafishing.web.id/tentang/): editorial dan kontak
+
+## Prinsip editorial
+Konten ditulis untuk kondisi Indonesia, menyertakan konteks praktis, dan diperbarui ketika informasi lapangan berubah. Jangan menafsirkan panduan sebagai jaminan hasil atau izin akses spot tertentu.
