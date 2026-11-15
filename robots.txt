@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dewafishing.web.id/sitemap.xml
