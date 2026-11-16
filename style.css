@@ -13,7 +13,8 @@ nav a:hover{color:#fff}
 .card p{font-size:.92rem;color:#51617a}
 .tag{display:inline-block;background:#e3f0fa;color:#0b5b8c;border-radius:20px;padding:2px 12px;font-size:.78rem;margin-top:10px}
 footer{margin-top:46px;padding:24px;text-align:center;color:#7a8aa0;font-size:.85rem}
-footer a{color:#0b5b8c}
+footer a{color:#0b5b8c}.card{transition:transform .18s ease,box-shadow .18s ease}.card:hover{transform:translateY(-2px);box-shadow:0 5px 18px rgba(10,30,50,.14)}
+@media(max-width:640px){header{position:static;padding:12px 14px}header .logo{font-size:1.05rem}nav{width:100%;display:flex;gap:8px 14px}nav a{margin-left:0;font-size:.88rem}.wrap{padding:18px 12px}.hero{padding:28px 20px}.hero h1{font-size:1.65rem}article{padding:21px 17px}article h1{font-size:1.45rem}table{display:block;overflow-x:auto;white-space:nowrap}.affiliate-cta{width:100%;text-align:center}}
 article{background:#fff;border-radius:14px;padding:30px;box-shadow:0 1px 5px rgba(10,30,50,.08)}
 article h1{color:#0b3d5c;margin:6px 0 14px;font-size:1.7rem}
 article h2{color:#0b3d5c;margin:24px 0 10px}
